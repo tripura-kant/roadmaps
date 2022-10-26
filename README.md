@@ -41,3 +41,14 @@ Are you aware of any community, job or project which are not added to our list y
  <a href = "https://github.com/commclassroom/roadmaps/graphs/contributors">
    <img src = "https://contrib.rocks/image?repo=commclassroom/roadmaps"/>
  </a>
+
+## Blogs:
+<p align="center"><img align="center" alt="Blogging" src="https://techzonein.blogspot.com/"></p>
+<p  align="center"><a href="https://github.com/commclassroom/roadmaps/tree/main/Backend-Development#readme"><B>Backend-Development</B></a></p>
+<p  align="center"><a href=""><b>Blockchain</b></a></p>
+<p  align="center"><a href=""><b>DevOps</b></a></p>
+<p  align="center"><a href="https://github.com/commclassroom/roadmaps/tree/main/DevRel#readme"><b>DevRel</b></a></p>
+<p  align="center"><a href="https://github.com/commclassroom/roadmaps/tree/main/Frontend-Development#readme"><b>Frontend-Development</b></a></p>
+<p  align="center"><a href="https://github.com/commclassroom/roadmaps/tree/main/Fullstack-Development#readme"><b>Fullstack-Development</b></a></p>
+<p  align="center"><a href=""><b>Android-Development</b></a></p>
+<p align="center"><a href="https://github.com/commclassroom/roadmaps/tree/main/Open-Source#readme"><b>Blockchain</b></a></p>
